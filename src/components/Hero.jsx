@@ -49,7 +49,7 @@ function Hero() {
           <span>
             <b>Best Qulaity Music</b>
           </span>
-          <span className="text-[15px] text-[#525D6E]">
+          <span className="text-[15px] text-[#525D6E] mt-4">
             Donec laoreet nec velit vitae aliquam. Ut quis tincidunt purus.
             <br />
             Suspendisse in leo non risus tincidunt lobortis.
