@@ -18,7 +18,7 @@ function Download() {
         </span>
       </div>
       {/* download ads */}
-      <div className="mt-14">
+      <div>
         <DonwloadAds />
       </div>
     </div>
